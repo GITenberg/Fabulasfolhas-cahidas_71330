@@ -1,0 +1,36 @@
+_repo: Fabulasfolhas-cahidas_71330
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Almeida Garrett, João Batista da Silva Leitão de Almeida Garrett,
+      Visconde de
+    aliases:
+    - Garret, Almeida
+    - Garrett, João Batista da Silva Leitão de Almeida Garrett, Visconde de Almeida
+    - Garrett, Almeida
+    birthdate: 1799
+    deathdate: 1854
+    gutenberg_agent_id: '7478'
+    url: http://www.gutenberg.org/2009/agents/7478
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Almeida_Garrett
+    - https://pt.wikipedia.org/wiki/Almeida_Garrett
+description: ''
+gutenberg_issued: '2023-08-03'
+identifiers:
+  gutenberg: '71330'
+language: pt
+pgterms:marc905: 20070205073223garrett
+pgterms:marc906: '1853'
+pgterms:marc907: PT
+production_note: Rita Farinha and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by National Library
+  of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: '  $aLisboa :$bImp. Nacional, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fábulas—folhas cahidas
+url: http://www.gutenberg.org/ebooks/71330
